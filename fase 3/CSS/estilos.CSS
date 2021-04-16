@@ -20,6 +20,7 @@ aside{
 footer{
     background-color: lightgreen;
     padding:10px ;
+    text-align: center;
 }
 .contenedor::after{
     content:"";
